@@ -1,0 +1,13 @@
+div input {
+  width: 400px;
+}
+textarea {
+  width: 400px;
+}
+
+button {
+  width: 400px;
+  background-color: green;
+  color: white;
+  border-radius: 4px; /* bo tròn 4 góc */
+}
