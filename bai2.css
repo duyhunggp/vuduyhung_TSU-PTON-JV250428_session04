@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px; /* khoang cach giua chu voi duong vien*/
+}
+p {
+  text-align: center;
+}
+a {
+  text-decoration: none; /*dung de trang tri van ban nhu:gach chan,gach ngang*/
+  color: rgb(205, 67, 67);
+  margin-right: 10px; /* khoang cach giua cac chu*/
+}
